@@ -13,6 +13,6 @@ The dataset contains borrower and loan-level variables including:
 - LoanPurpose
 - Default
 
-The raw dataset is not redistributed in this repository. Download it from the original Kaggle source and place it in this folder as:
+The raw dataset is not redistributed in this repository
 
-`Loan_default.csv`
+
