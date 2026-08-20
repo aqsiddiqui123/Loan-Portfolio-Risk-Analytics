@@ -1,1 +1,18 @@
+# Dataset
 
+This project uses the Kaggle Loan Default Prediction dataset.
+
+The dataset contains borrower and loan-level variables including:
+
+- Income
+- LoanAmount
+- CreditScore
+- InterestRate
+- DTIRatio
+- EmploymentType
+- LoanPurpose
+- Default
+
+The raw dataset is not redistributed in this repository. Download it from the original Kaggle source and place it in this folder as:
+
+`Loan_default.csv`
