@@ -1,1 +1,13 @@
+# Output Visualizations
+
+## Default Rate by Credit Score Band
+Shows the observed loan default rate across borrower credit-score bands. The chart highlights how default risk varies by borrower credit quality and helps identify higher-risk credit segments.
+
+## Default Rate by DTI Band
+
+Compares observed default rates across low-, medium-, and high-debt-to-income borrower groups. The visualization is used to assess whether borrower leverage is associated with elevated credit risk.
+
+## Default Rate by Loan Purpose
+
+Compares observed default rates across different loan-purpose categories. The chart helps identify lending products associated with relatively higher portfolio default risk.
 
