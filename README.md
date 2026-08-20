@@ -1,5 +1,6 @@
 # Loan-Portfolio-Risk-Analytics
 Loan portfolio default-risk analysis using SQL, Python, statistical testing, and credit-risk segmentation.
+
 Overview
 
 This project analyzes borrower- and loan-level characteristics to identify segments associated with elevated default risk and translate those findings into targeted portfolio-risk recommendations.
